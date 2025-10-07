@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "fg/fg-sauce-banner",
+  "version": "1.0",
+  "title": "FG Sauce Banner",
+  "category": "widgets",
+  "icon": "block-default",
+  "description": "Great banner to feature each sauce – shows corresponding image, title and headline if used in single post view. Picks up random recipe if used in other views.",
+  "textdomain": "fg-sauce-banner",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "fg-sauce-banner",
+  "version": "1.0.0",
+  "description": "Great banner to feature each sauce",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "packages-update": "wp-scripts packages-update"
+  },
+  "author": "Fabian Genthner",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^30.23.0"
+  }
+}
