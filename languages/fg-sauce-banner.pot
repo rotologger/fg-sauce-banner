@@ -1,0 +1,59 @@
+# Copyright (C) 2025 Fabian Genthner
+# This file is distributed under the same license as the FG Sauce Banner plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Sauce Banner 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fg-sauce-banner\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-07T10:42:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: fg-sauce-banner\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "FG Sauce Banner"
+msgstr ""
+
+#. Description of the plugin
+#: index.php
+#: build/index.js:1
+#: src/edit.js:10
+msgid "Great banner to feature each sauce – shows corresponding image, title and headline if used in single post view. Picks up random recipe if used in other views."
+msgstr ""
+
+#. Author of the plugin
+#: index.php
+msgid "Fabian Genthner"
+msgstr ""
+
+#. Author URI of the plugin
+#: index.php
+msgid "https://fabiangenthner.de/"
+msgstr ""
+
+#: build/render.php:49
+#: src/render.php:49
+msgid "Go to sauce"
+msgstr ""
+
+#: build/index.js:1
+#: src/edit.js:8
+msgid "Sauce Banner"
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block title"
+msgid "FG Sauce Banner"
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block description"
+msgid "Great banner to feature each sauce – shows corresponding image, title and headline if used in single post view. Picks up random recipe if used in other views."
+msgstr ""
